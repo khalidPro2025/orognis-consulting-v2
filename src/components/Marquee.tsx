@@ -1,6 +1,6 @@
 const WORDS = [
   "Conseil & Stratégie",
-  "Identité & Création",
+  "Presse & Media Training",
   "Communication Digitale",
   "Événementiel",
   "Études & Enquêtes",

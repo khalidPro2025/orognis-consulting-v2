@@ -42,14 +42,14 @@ export const EXPERTISES: Expertise[] = [
   {
     id: "identite-creation",
     number: "02",
-    title: "Identité & Création",
-    short: "Identité visuelle, direction artistique, supports de communication et création de contenus.",
+    title: "Presse & Media Training",
+    short: "Relations presse, préparation aux interviews et accompagnement à la prise de parole médiatique.",
     description:
       "Une identité forte qui se reconnaît au premier coup d'œil. Nous concevons des univers visuels, des supports et des contenus qui racontent votre différence avec exigence et créativité.",
     icon: PenTool,
     category: "Création",
-    tags: ["Identité visuelle", "Direction artistique", "Print & digital", "Contenus"],
-    deliverables: ["Logo & charte graphique", "Direction artistique", "Supports print & digitaux", "Bibliothèque de contenus"],
+    tags: ["Relations presse", "Media training", "Prise de parole", "Gestion des interviews"],
+    deliverables: ["Stratégie de relations presse", "Préparation aux interviews", "Coaching des porte-parole", "Éléments de langage"],
     impact: { label: "Reconnaissance de marque", value: 87, suffix: "%" },
   },
   {

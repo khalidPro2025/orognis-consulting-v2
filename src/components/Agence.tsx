@@ -52,7 +52,7 @@ export default function Agence() {
           </h2>
           <div className="space-y-5">
             <p className="text-lg leading-relaxed font-medium text-navy-800">
-              Orognis Consulting est une agence de communication qui associe réflexion stratégique,
+              Orognis Consulting est un cabinet de conseil en Communication & Stratégie d’influence qui associe réflexion stratégique,
               créativité et maîtrise des outils digitaux.
             </p>
             <p className="leading-relaxed text-slate-500">
