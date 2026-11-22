@@ -45,7 +45,7 @@ export const EXPERTISES: Expertise[] = [
     title: "Presse & Media Training",
     short: "Relations presse, préparation aux interviews et accompagnement à la prise de parole médiatique.",
     description:
-      "Une identité forte qui se reconnaît au premier coup d'œil. Nous concevons des univers visuels, des supports et des contenus qui racontent votre différence avec exigence et créativité.",
+      "Nous accompagnons les organisations dans leurs relations avec les médias, la préparation de leurs prises de parole et la valorisation de leurs messages auprès des publics.",
     icon: PenTool,
     category: "Création",
     tags: ["Relations presse", "Media training", "Prise de parole", "Gestion des interviews"],
